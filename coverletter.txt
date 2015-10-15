@@ -1,25 +1,25 @@
 Luke Scalf
-1102 Chiron St.
-Lafayette, CO 80026
+3009 W 107th Pl, Unit B.
+Westminster, CO 80031
 970.901.5253
-luke@monkeywrench.cc
+homebrewerluke@gmail.com
 
 
-April 18, 2015
+October 1, 2015
+
+
+Keyventer, Inc.
 
 
 To Whom It May Concern,
 
-I am a Web Designer and Developer with more than 9 years of experience, and I am a perfect match for your Back End Web Developer position.
+I am a Web Designer and Developer with more than 8 years of experience, and I am a perfect match for your Front Web End Developer position advertised on indeed.com.
 
-For the last year, I have served as a Web Development Specialist at Izoox, a Telluride based web development company. While there, I have been involved in the complete redesign of several large ecommerce websites, as well as maintenance of many other sites. Prior to this job, I served as a Sr. Frontend Engineer at 2lemetry (recently acquired by Amazon), a Denver based Internet of Things startup. While there, I performed a complete redesign of their company website and developed and maintained several large clientside web applications using node.js and angular.js. In addition to these skills, I have been involved in the development of several custom CMS applications using the Zend and Codeingiter PHP frameworks and have developed many custom Wordpress plugins.
+For the last 4 months I have served as a Contract Database Developer/Consultant at Optum Inc. Prior to that I have been a Full stack developer on a freelance basis from 2012 - May 2015. During that time, I worked on a wide array of projects from basic websites to large e-commerce applications and custom CMS systems. I have worked with a variety of technologies on both the front-end and back-end. In 2013, I took a break from freelancing and served as Sr. Front-end Engineer at 2lemetry, a Denver based Internet of Things startup. While there, I performed a complete redesign of their company website and developed and maintained several large client side web applications using node.js and angular.js. Prior to this job, I have contracted for 4 years as the Web Designer / Front-End Developer at Izoox, a small web design and development firm based in Loveland, CO.  When I started working with Izoox, the company was strictly a development company and outsourced all their design, html, css, and javascript work out to other companies. My job there involved creating a design department from the ground up. In addition to these skills, I have been involved in the development of several custom CMS applications using the Zend, Codeingiter, FuelPHP, and Laravel PHP frameworks and have developed many custom Wordpress plugins.
 
 To give you and example of my abilities, listed below (Newest to Oldest) are several recent websites I have designed and developed from start to finish.
 
-http://m.bluehawaiian.com/
-http://www.sundancehelicopters.com/
-https://www.amoils.com/
-http://www.reverchurch.com/
+http://www.monkeywrench.cc/ (My Portfolio Site)
 http://www.calvarychristian.info/
 http://www.izoox.com/
 http://www.animaroo.com/
@@ -28,15 +28,10 @@ http://www.bouldercountycc.com/
 http://www.gohallam.com/
 
 You can also view my github profile at https://github.com/dryhopped
+In addition, my resume can also be viewed online at http://www.monkeywrench.cc/resume.html
 
-I would welcome and appreciate the opportunity to further discuss my skills and this position. If you have questions or would like to schedule an interview, please contact me by phone at 970.901.5253 or by e-mail at luke@monkeywrench.cc. I have enclosed my resume for your review and look forward to hearing from you.
+I would welcome and appreciate the opportunity to further discuss my skills and this position. If you have questions or would like to schedule an interview, please contact me by phone at 970.901.5253 or by e-mail at homebrewerluke@gmail.com. I look forward to hearing from you.
 
 Sincerely,
 
 Luke Scalf
-Designer / Developer
-MonkeyWrench - Custom Web Development
-
-www.monkeywrench.cc
-luke@monkeywrench.cc
-(970) 901-5253
