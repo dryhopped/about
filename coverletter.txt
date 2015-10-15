@@ -5,22 +5,24 @@ Westminster, CO 80031
 homebrewerluke@gmail.com
 
 
-October 1, 2015
+October 14, 2015
 
 
-Keyventer, Inc.
+Quick Left Inc.
+902 Pearl Street 
+Boulder, CO 80302
 
 
 To Whom It May Concern,
 
-I am a Web Designer and Developer with more than 8 years of experience, and I am a perfect match for your Front Web End Developer position advertised on indeed.com.
+I am a Web Designer and Developer with more than 8 years of experience, and I am a perfect match for your Web Developer position advertised on quickleft.com.
 
-For the last 4 months I have served as a Contract Database Developer/Consultant at Optum Inc. Prior to that I have been a Full stack developer on a freelance basis from 2012 - May 2015. During that time, I worked on a wide array of projects from basic websites to large e-commerce applications and custom CMS systems. I have worked with a variety of technologies on both the front-end and back-end. In 2013, I took a break from freelancing and served as Sr. Front-end Engineer at 2lemetry, a Denver based Internet of Things startup. While there, I performed a complete redesign of their company website and developed and maintained several large client side web applications using node.js and angular.js. Prior to this job, I have contracted for 4 years as the Web Designer / Front-End Developer at Izoox, a small web design and development firm based in Loveland, CO.  When I started working with Izoox, the company was strictly a development company and outsourced all their design, html, css, and javascript work out to other companies. My job there involved creating a design department from the ground up. In addition to these skills, I have been involved in the development of several custom CMS applications using the Zend, Codeingiter, FuelPHP, and Laravel PHP frameworks and have developed many custom Wordpress plugins.
+For the last 4 months I have served as a Contract Database Developer/Consultant at Optum Inc. Prior to that I have been a Full stack developer on a freelance basis from January 2012 - May 2015. During that time, I worked on a wide array of projects from basic websites to large e-commerce applications and custom CMS systems. I have worked with a variety of technologies on both the front-end and back-end. In 2013, I took a break from freelancing and served as Sr. Front-end Engineer at 2lemetry (now AWS IoT), a former Denver based Internet of Things startup. While there, I performed a complete redesign of their company website and developed and maintained several large client side web applications using node.js and angular.js. Prior to this job, I have contracted for 4 years as the Web Designer / Front-End Developer at Izoox, a small web design and development firm based in Loveland, CO.  When I started working with Izoox, the company was strictly a development company and outsourced all their design, html, css, and javascript work out to other companies. My job there involved creating a design department from the ground up. In addition to these skills, I have been involved in the development of several custom CMS applications using the Zend, Codeingiter, FuelPHP, and Laravel PHP frameworks and have developed many custom Wordpress plugins.
 
 To give you and example of my abilities, listed below (Newest to Oldest) are several recent websites I have designed and developed from start to finish.
 
-http://www.monkeywrench.cc/ (My Portfolio Site)
-http://www.calvarychristian.info/
+http://sendum.m2m.io/ (Angular.js application)
+http://fitpastors.com/
 http://www.izoox.com/
 http://www.animaroo.com/
 http://www.mexinsurance.com/
@@ -28,7 +30,7 @@ http://www.bouldercountycc.com/
 http://www.gohallam.com/
 
 You can also view my github profile at https://github.com/dryhopped
-In addition, my resume can also be viewed online at http://www.monkeywrench.cc/resume.html
+In addition, my resume can also be viewed online at http://dryhopped.github.io/about/resume.txt
 
 I would welcome and appreciate the opportunity to further discuss my skills and this position. If you have questions or would like to schedule an interview, please contact me by phone at 970.901.5253 or by e-mail at homebrewerluke@gmail.com. I look forward to hearing from you.
 
