@@ -1,0 +1,42 @@
+Luke Scalf
+1102 Chiron St.
+Lafayette, CO 80026
+970.901.5253
+luke@monkeywrench.cc
+
+
+April 18, 2015
+
+
+To Whom It May Concern,
+
+I am a Web Designer and Developer with more than 9 years of experience, and I am a perfect match for your Back End Web Developer position.
+
+For the last year, I have served as a Web Development Specialist at Izoox, a Telluride based web development company. While there, I have been involved in the complete redesign of several large ecommerce websites, as well as maintenance of many other sites. Prior to this job, I served as a Sr. Frontend Engineer at 2lemetry (recently acquired by Amazon), a Denver based Internet of Things startup. While there, I performed a complete redesign of their company website and developed and maintained several large clientside web applications using node.js and angular.js. In addition to these skills, I have been involved in the development of several custom CMS applications using the Zend and Codeingiter PHP frameworks and have developed many custom Wordpress plugins.
+
+To give you and example of my abilities, listed below (Newest to Oldest) are several recent websites I have designed and developed from start to finish.
+
+http://m.bluehawaiian.com/
+http://www.sundancehelicopters.com/
+https://www.amoils.com/
+http://www.reverchurch.com/
+http://www.calvarychristian.info/
+http://www.izoox.com/
+http://www.animaroo.com/
+http://www.mexinsurance.com/
+http://www.bouldercountycc.com/
+http://www.gohallam.com/
+
+You can also view my github profile at https://github.com/dryhopped
+
+I would welcome and appreciate the opportunity to further discuss my skills and this position. If you have questions or would like to schedule an interview, please contact me by phone at 970.901.5253 or by e-mail at luke@monkeywrench.cc. I have enclosed my resume for your review and look forward to hearing from you.
+
+Sincerely,
+
+Luke Scalf
+Designer / Developer
+MonkeyWrench - Custom Web Development
+
+www.monkeywrench.cc
+luke@monkeywrench.cc
+(970) 901-5253
