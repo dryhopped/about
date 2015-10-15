@@ -1,0 +1,163 @@
+Luke Scalf
+
+3009 W 107th Pl, Unit B
+Westminster, CO 80031
+
+970.901.5253
+homebrewerluke@gmail.com
+
+https://github.com/dryhopped
+http://www.monkeywrench.cc/
+
+
+--------------------------------------------------------------------------------
+TECHNICAL SKILLS
+--------------------------------------------------------------------------------
+
+HTML, CSS & JavaScript
+
+A master at bending Internet Explorer to my will & creating a pixel perfect
+design no matter how complex the design.
+
+* 9 years hand-coding web templates.
+* 9 years optimizing websites for search engine performance
+* 6 years developing cross-client compatible email templates
+* 6 years developing website enhancements using JavaScript with various
+  libraries & frameworks
+* 3 years developing client side applications using various front-end
+  frameworks, including: backbone.js, angular.js, ember.js, socket.io
+
+PHP & MySQL
+
+* 8 years developing dynamic websites from scratch using PHP & MySQL
+* 8 years developing websites using various PHP CMS applications
+* 6 years developing web applications using various PHP MVC frameworks
+* 2 years developing REST apis to power client-side js applications
+
+RUBY
+
+* 3 years maintaining web applications & services
+* 3 years developing with various frameworks (Rails, Sinatra)
+
+
+--------------------------------------------------------------------------------
+EMPLOYMENT HISTORY
+--------------------------------------------------------------------------------
+
+OPTUM, INC.
+Database Developer
+May 2015 - Present
+
+* Cleaned up erroneous & duplicate data from 100GB+ medical databases
+* Optimized database schemas & structures to improve application performance
+* Implemented & enforced HIPAA compliance best practices for data storage
+  & security
+* Improved consistency in database structure & conventions
+* Analyzed slow query logs for weak points in application performance
+* Completed large data migration projects to updated schema structures
+
+2LEMETRY
+Sr. Frontend Engineer
+February 2013 - December 2013
+
+* Designed, developed, & maintained company website
+* Developed & maintained complex web applications using node.js, Angular.js,
+  CoffeeScript, LESS, & Bootstrap.
+* Wrote unit & integration tests for server side & client side
+  js applications
+
+MONKEYWRENCH
+Owner, Designer, & Developer
+January 2012 - May 2015
+
+* Designed & developed websites for churches & non-profits
+* Released & maintained Ninja CSS, an open source adaptive css framework
+* Released & maintained several opensource php libraries for working with
+  several popular apis
+* Continued contracting with 601am & Izoox for front end development projects
+
+601AM
+Web Developer
+July 2011 - December 2011
+
+* Developed, supported, & maintained large publication websites & blogs
+
+IZOOX, LLC
+Full Stack Developer
+December 2008 - July 2011
+
+* Spearheaded web design team
+* Designed, developed, & maintained many high traffic applications & websites
+
+MONTROSE COUNTY
+Linux Server Administrator, Database Administrator
+June 2007 - December 2008
+
+* Designed & implemented county-wide backup system
+* Recovered functionaly of Zimbra-based email system after LDAP database was
+  corrupted after Zimbra upgrade
+* Converted entire network of Microsoft Active Directory to
+  Linux/OpenLDAP/Samba 4
+* Converted 30+ Linux application & database servers to VM cluster
+* Performed security analysis & hardening of all new & updated servers
+* Implemented network-wide HIPAA compliance security protocols of filesystems,
+  passwords, & data storage
+
+
+--------------------------------------------------------------------------------
+NOTABLE PROJECTS
+--------------------------------------------------------------------------------
+
+AMOILS.COM
+Design, HTML5, CSS, JS, PHP, Magento
+
+After maintaining their previous store front in Volusion & implementing many
+iterative redesigns of their website, I had the opportunity to perform a
+complete redesign & recode of their website. With the new version of the site,
+we decided to bring the design to a more modern, clean look that was responsive
+across all major screen sizes. We used Bootstrap v3 to provide a solid
+foundation for the responsive work, & then implemented the new theme in
+Magento, along with many custom developed modules.
+
+MEXINSURANCE.COM
+Design, HTML5, CSS, JS, PHP, FuelPHP
+
+After several years of mainaining a previous version of their website, we were
+given the opportunity to redesign & recode their website. We went with a more
+modern, responsive design, & chose FuelPHP as the framework of choice for the
+development. Since the rebuild of their websites, sales have steadily &
+consistently risen for the last 2 years.
+
+COLEHAMELS.COM
+HTML, CSS, JS, PHP
+
+We've had the opportunity to work with Cole Hamels (pitcher for the
+Texas Rangers) in maintaining both his personal website & his foundation
+website.
+
+YALLAMEDI.COM
+HTML, CSS, JS, Ruby, Rails 4
+
+I had the opportunity to take over the development & maintenance of
+YallaMedi.com. Since taking over, I have built out a new module in the admin for
+managing their new catering menu, as well as improving performance &
+functionality throughout the website.
+
+
+--------------------------------------------------------------------------------
+EDUCATION
+--------------------------------------------------------------------------------
+
+CLEARWATER MASTERS COMMISSION
+2005 - 2007
+
+* Leadership Training Internship
+
+MONTROSE HIGH SCHOOL
+2001 - 2004
+
+* Completed 2 years of Visual Basic coursework
+* Completed 1 year of C++ coursework
+* Worked with programming teach to develop AP Computer Science course in Java
+* Passed AP Computer Science exam with 5 out of 5, missing only 1 question on
+  the exam
